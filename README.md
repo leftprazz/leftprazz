@@ -56,5 +56,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leftprazz&show_icons=true&locale=en" alt="leftprazz" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leftprazz&show_icons=true&locale=en" alt="leftprazz" /></p>
 
