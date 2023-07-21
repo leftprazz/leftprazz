@@ -21,6 +21,17 @@
 </p>
 <br>
 
+<h3 align="center">OS:</h3>
+<p align="center">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
+    <img src="./.img/icon/windows.png" alt="windows" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="center">Languages:</h3>
 
 <p align="center">
@@ -28,7 +39,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="py" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="center">Tools:</h3>
@@ -55,17 +72,6 @@
   </a>
 </p>
 
-<h3 align="center">OS:</h3>
-<p align="center">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
-    <img src="./.img/icon/windows.png" alt="windows" width="40" height="40"/>
-  </a>
-</p>
-
 <h3 align="center">Database:</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -76,6 +82,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="center">Cloud Computing:</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  </a>
+
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+  </a>
+</p>
+
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leftprazz&show_icons=true&locale=en" alt="leftprazz" /></p>
 
