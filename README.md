@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="grafana" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -72,6 +72,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leftprazz&show_icons=true&locale=en" alt="leftprazz" /></p>
 
