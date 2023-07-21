@@ -62,7 +62,7 @@
   </a>
 
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
-    <img src="https://www.freeiconspng.com/img/5814" alt="windows" width="40" height="40"/>
+    <img src="./.img/icon/windows.png" alt="windows" width="40" height="40"/>
   </a>
 </p>
 
