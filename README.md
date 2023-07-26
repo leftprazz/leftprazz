@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akhmadprasetya27@gmail.com**
 
-- ⚡ Interesting fact about me is **I'm quiet with new people but funny with friends. Serious and focused at work, but humor and laughter define my friendships.**
+- ⚡ Interesting fact about me is: **I'm quiet with new people but funny with friends. Serious and focused at work, but humor and laughter define my friendships.**
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
