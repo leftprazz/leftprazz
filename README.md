@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Golang, Bash Script, Node.JS, Cloud Computing, CI/CD**
 
-- 💬 Ask me about **Cloud Computing, AWS, GCP, Docker, Docker Swarm, etc**
+- 💬 Ask me about. **Cloud Computing, AWS, GCP, Docker, Docker Swarm, etc**
 
 - 📫 How to reach me **akhmadprasetya27@gmail.com**
 
