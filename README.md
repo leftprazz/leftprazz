@@ -80,6 +80,9 @@
     <a href="https://circleci.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
     </a>
+    <a href="https://uptime.kuma.pet/" target="_blank" rel="noreferrer">
+        <img src="https://artifacthub.io/image/40d16b6f-97c3-4420-8881-f7a3ee357d36@3x" alt="uptime-kuma" width="40" height="40"/>
+    </a>
 </p>
 
 <h4 align="left">Database:</h4>
