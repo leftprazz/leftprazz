@@ -21,7 +21,7 @@
 </p>
 <br>
 
-<h3 align="left">OS:</h3>
+<h4 align="left">OS:</h4>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h4 align="left">Languages:</h4>
 <p align="left">
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -44,7 +44,7 @@
     </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h4 align="left">Tools:</h4>
 <p align="left">
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
@@ -63,7 +63,7 @@
     </a>
 </p>
 
-<h3 align="left">Database:</h3>
+<h4 align="left">Database:</h4>
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -73,7 +73,7 @@
     </a>
 </p>
 
-<h3 align="left">Cloud Computing:</h3>
+<h4 align="left">Cloud Computing:</h4>
 <p align="left">
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
