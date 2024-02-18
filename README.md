@@ -27,8 +27,6 @@
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=EndyPratama&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
 </p>
 
 <br>
