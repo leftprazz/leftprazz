@@ -20,6 +20,10 @@
 <a href="https://instagram.com/leftprazz" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leftprazz" height="30" width="40" /></a>
 </p>
 <br>
+<br>
+<img align='right' height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=leftprazz&theme=darcula&hide_border=true&background=FFFFFF00">
+<br>
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leftprazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="leftprazz" />
 
 <h4 align="left">OS:</h4>
 <p align="left">
@@ -87,13 +91,4 @@
 </p>
 
 
-<p align="left">
-  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=leftprazz&theme=darcula&hide_border=true&background=FFFFFF00">
-</p>
 
-<br>
-<p align="left">
-  <a href="https://github.com/leftprazz">
-    <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leftprazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="leftprazz" />
-  </a>
-</p>
