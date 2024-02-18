@@ -4,7 +4,7 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leftprazz&label=Profile%20views&color=0e75b6&style=flat" alt="leftprazz" /> </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 - 🌱 I’m currently learning **Python, Golang, Bash Script, Node.JS, Cloud Computing, CI/CD**
 
 - 💬 Ask me about. **Cloud Computing, AWS, GCP, Docker, Docker Swarm, etc**
