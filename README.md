@@ -1,4 +1,4 @@
-[![MasterHead](./.img/readme.png)](#)
+[![MasterHead](./.img/header.png)](#)
 
 <h1 align="center">Hello there 👋, I'm Pras</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
