@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/akhmadprasetya27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leftprazz" height="30" width="40" /></a>
 <a href="https://instagram.com/leftprazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leftprazz" height="30" width="40" /></a>
 </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br>
 
 | <h3 align="center">OS:</h3>   | <h3 align="center">Languages:</h3> | <h3 align="center">Tools:</h3>      | <h3 align="center">Database:</h3>     | <h3 align="center">Cloud Computing:</h3> |
