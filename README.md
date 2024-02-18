@@ -1,7 +1,7 @@
 [![MasterHead](./.img/header.png)](#)
 
-<h1 align="center">Hello there 👋, I'm Pras <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45"></h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="left">Hello there 👋, I'm Pras <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45"></h1>
+<h3 align="left">A passionate DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leftprazz&label=Profile%20views&color=0e75b6&style=flat" alt="leftprazz" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
@@ -14,10 +14,10 @@
 
 - ⚡ Interesting fact about me is: **I'm quiet with new people but funny with friends. Serious and focused at work, but humor and laughter define my friendships.**
 <br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/akhmadprasetya27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leftprazz" height="30" width="40" /></a>
-<a href="https://instagram.com/leftprazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leftprazz" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akhmadprasetya27/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leftprazz" height="30" width="40" /></a>
+<a href="https://instagram.com/leftprazz" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leftprazz" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -63,8 +63,8 @@
     </a>
 </p>
 
-<h3 align="right">Database:</h3>
-<p align="right">
+<h3 align="left">Database:</h3>
+<p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
@@ -73,8 +73,8 @@
     </a>
 </p>
 
-<h3 align="right">Cloud Computing:</h3>
-<p align="right">
+<h3 align="left">Cloud Computing:</h3>
+<p align="left">
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
@@ -87,13 +87,13 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=leftprazz&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 <br>
-<p align="center">
+<p align="left">
   <a href="https://github.com/leftprazz">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leftprazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="leftprazz" />
+    <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leftprazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="leftprazz" />
   </a>
 </p>
