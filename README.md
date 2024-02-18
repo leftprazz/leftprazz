@@ -28,4 +28,6 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leftprazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="leftprazz" /></p>
 
+[![leftprazz's github stats](ttps://github-readme-stats-eight-theta.vercel.app/api?username=leftprazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true)](https://github.com/leftprazz)
+
 [![leftprazz's github stats](https://github-readme-stats.vercel.app/api?username=leftprazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true)](https://github.com/leftprazz)
